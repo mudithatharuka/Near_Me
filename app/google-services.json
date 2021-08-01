@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "374706071068",
+    "project_id": "near-me-1181e",
+    "storage_bucket": "near-me-1181e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:374706071068:android:c1e10a8614dfd0f9cfe1d9",
+        "android_client_info": {
+          "package_name": "com.example.nearme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "374706071068-cmu6e9j7bqo0etr9kp6iv7utjq9mml2h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPumyzLXwEGuGmncNmc2k4jnVVhZRvI9w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "374706071068-cmu6e9j7bqo0etr9kp6iv7utjq9mml2h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
